@@ -23,10 +23,9 @@
 <h2 id="func"> ⚙ Funcionalidades </h2>
 
 - [x] Página totalmente responsiva <br>
-- [x] Conversor de unidades métricas</br>
+- [x] Conversor de unidades métricas<br><br>
 
 <h2 id="tec"> 🚀 Tecnologias </h2> 
-<br>
 
 <p> Esse projeto foi desenvolvido com as seguintes tecnologias: </p><br>
 
