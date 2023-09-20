@@ -25,7 +25,8 @@
 - [x] Página totalmente responsiva <br>
 - [x] Conversor de unidades métricas</br>
 
-<h2 id="tec"> 🚀 Tecnologias </h2>
+<h2 id="tec"> 🚀 Tecnologias </h2> 
+<br>
 
 <p> Esse projeto foi desenvolvido com as seguintes tecnologias: </p><br>
 
