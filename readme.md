@@ -15,7 +15,7 @@
 
 <br>
 <p align="center">
-<a href="https://teal-eclair-572d8a.netlify.app">
+<a href="https://celadon-haupia-c31bad.netlify.app">
 <img alt="Demo on Netlify" src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png" data-canonical-src="https://res.cloudinary.com/lukemorales/image/upload/v1563043495/readme_logos/demo_on_netlify_bbuvjz.png" style="max-width: 100%;">
 </a></p>
 <br>
